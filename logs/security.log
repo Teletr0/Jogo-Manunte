@@ -1,0 +1,2 @@
+2026-11-17 20:15:24 | WARNING  | Thread-367 (process_request_thread) | 127.0.0.1 | 403 | Caminho bloqueado: /.well-known/appspecific/com.chrome.devtools.json
+2026-11-17 20:15:34 | WARNING  | Thread-413 (process_request_thread) | 127.0.0.1 | 403 | Caminho bloqueado: /.well-known/appspecific/com.chrome.devtools.json
